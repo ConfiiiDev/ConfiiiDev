@@ -18,7 +18,7 @@
 ---
 
 ## 🚩 → Projects:
-- [DiscordProtect <img src="https://cdn.discordapp.com/icons/767766535342522398/1fe734cac33ab1128d880ea887892cca.webp" width="24"/>](discord.gg/yourname)
+- [Among Us Modded 1.0 <img src="https://cdn.discordapp.com/icons/767766535342522398/1fe734cac33ab1128d880ea887892cca.webp" width="24"/>](https://github.com/ConfiiiDev/Among-Us-Modded-1.0)
 
 ---
 
