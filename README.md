@@ -19,6 +19,7 @@
 
 ## 🚩 → Projects:
 - [Among Us Modded 1.0 <img src="https://an1.com/uploads/yujnrtbtrh.png" width="24"/>](https://github.com/ConfiiiDev/Among-Us-Modded-1.0)
+- [Anti DDOS 1.0 <img src="https://media1.tenor.com/images/21f06c2352f87fc7d6fc717e13497560/tenor.gif?itemid=13760868" width="24"/>](https://github.com/ConfiiiDev/Anti-DDOS)
 
 ---
 
