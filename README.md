@@ -6,7 +6,7 @@
 
 ---
 
-## 🌍 languages:
+## 🌍 Languages:
 <p>
   <img alt="js" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="php" src="https://img.shields.io/badge/-PHP-FFB120?style=flat-square&logo=php&logoColor=white" />
