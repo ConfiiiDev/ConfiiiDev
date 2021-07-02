@@ -3,6 +3,8 @@
 <img align="right" alt="Confi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ConfiiiDev&show_icons=true&hide_border=true" />
 
 - 💻 → French Developer
+cybersec
+ubuntu/parrot
 
 ---
 
